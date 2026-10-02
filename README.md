@@ -5,6 +5,7 @@ C# program to decode a google document table of values which include an x-coordi
 Example:
 https://docs.google.com/document/d/e/2PACX-1vTMOmshQe8YvaRXi6gEPKKlsC6UpFJSMAk4mQjLm_u1gmHdVVTaeh7nBNFBRlui0sTZ-snGwZM4DBCT/pub
 
+(Full view to see)
 █▀▀▀
 █▀▀
 █
